@@ -75,3 +75,21 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# GitHub Copilot local files
+# JetBrains (PyCharm, IntelliJ) Copilot plugin
+.idea/copilot/
+.idea/copilot-chat/
+.idea/copilot-workspace/
+
+# VS Code Copilot data
+.vscode/copilot.json
+.vscode/copilot-secret.json
+.vscode/copilot-chat.json
+.vscode/copilot*
+
+# General cache/logs (just in case)
+copilot-cache/
+copilot_logs/
+
+idea/inspectionProfiles/
